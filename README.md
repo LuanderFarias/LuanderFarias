@@ -3,18 +3,16 @@
 <h3 align="center">Estudante Na Alura</h3>
 
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=LuanderFarias&show_icons=true&theme=dracula">
+  <a href="https://github-readme-stats.vercel.app/api?username=LuanderFarias&show_icons=true&theme=tokyonight">
     <img
       align="center"
-      height="180em"
-      src="https://github-readme-stats.vercel.app/api?username=LuanderFarias&show_icons=true&theme=dracula"
+      src="https://github-readme-stats.vercel.app/api?username=LuanderFarias&show_icons=true&theme=tokyonight"
     />
   </a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanderFarias&show_icons=true&theme=dracula">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanderFarias&show_icons=true&layout=compact&theme=tokyonight">
     <img
       align="center"
-      height="180em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanderFarias&show_icons=true&theme=dracula"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanderFarias&show_icons=true&layout=compact&theme=tokyonight"
     />
   </a>
 </p>
@@ -27,13 +25,13 @@
   <a href="https://github.com/LuanderFarias/Cheep">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=LuanderFarias&repo=Cheep&theme=dracula"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=LuanderFarias&repo=Cheep&theme=tokyonight"
     />
   </a>
   <a href="https://github.com/LuanderFarias/Saturnio">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=LuanderFarias&repo=Saturnio&theme=dracula"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=LuanderFarias&repo=Saturnio&theme=tokyonight"
     />
   </a>
 </p>
