@@ -6,12 +6,14 @@
   <a href="https://github-readme-stats.vercel.app/api?username=LuanderFarias&show_icons=true&theme=tokyonight">
     <img
       align="center"
+      height="180em"
       src="https://github-readme-stats.vercel.app/api?username=LuanderFarias&show_icons=true&theme=tokyonight"
     />
   </a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanderFarias&show_icons=true&layout=compact&theme=tokyonight">
     <img
       align="center"
+      height="180em"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanderFarias&show_icons=true&layout=compact&theme=tokyonight"
     />
   </a>
