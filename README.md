@@ -30,12 +30,6 @@
       src="https://github-readme-stats.vercel.app/api/pin/?username=LuanderFarias&repo=Midnight-Launcher&theme=tokyonight"
     />
   </a>
-  <a href="https://github.com/LuanderFarias/Saturnio">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=LuanderFarias&repo=Saturnio&theme=tokyonight"
-    />
-  </a>
 </p>
 
 ##
