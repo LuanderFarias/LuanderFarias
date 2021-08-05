@@ -24,10 +24,10 @@
 <h3 align="center">No Momento Trabalhando Em:</h3>
 
 <p align="center">
-  <a href="https://github.com/LuanderFarias/Cheep">
+  <a href="https://github.com/LuanderFarias/Midnight-Launcher">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=LuanderFarias&repo=Cheep&theme=tokyonight"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=LuanderFarias&repo=Midnight-Launcher&theme=tokyonight"
     />
   </a>
   <a href="https://github.com/LuanderFarias/Saturnio">
