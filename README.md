@@ -24,10 +24,10 @@
 <h3 align="center">No Momento Trabalhando Em:</h3>
 
 <p align="center">
-  <a href="https://github.com/LuanderFarias/Nada">
+  <a href="https://github.com/LuanderFarias/Cheep">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=LuanderFarias&repo=Nada&theme=tokyonight"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=LuanderFarias&repo=Cheep&theme=tokyonight"
     />
   </a>
 </p>
@@ -78,12 +78,6 @@
     <img
       align="center"
       src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
-    />
-  </a>
-  <a href="https://codepen.io/LuanderFarias">
-    <img
-      align="center"
-      src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white&link=https://codepen.io/LuanderFarias"
     />
   </a>
 </p>
