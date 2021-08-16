@@ -1,6 +1,6 @@
   <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Oii Meu Nome é Luander De Faria</h1>
 
-<h3 align="center">Estudante Na Alura</h3>
+<h3 align="center">Estudante Na https://alura.com.br</h3>
 
 <p align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=LuanderFarias&show_icons=true&theme=tokyonight">
