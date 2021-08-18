@@ -72,9 +72,14 @@
   <a href="https://discord.gg/ZP7fGys">
     <img
       align="center"
-      src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.gg/ZP7fGys"
-    />
-  </a>  <a href="https://www.youtube.com/channel/UC-gZiNTB58C1APIyp15cqxA">
+      src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.gg/ZP7fGys">
+  </a>
+  <a href="https://www.linkedin.com/in/luander-de-faria-474269205/">
+    <img
+         align="center"
+         src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+  </a>
+  <a href="https://www.youtube.com/channel/UC-gZiNTB58C1APIyp15cqxA">
     <img
       align="center"
       src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
