@@ -3,7 +3,7 @@
 <h3 align="center">Estudante Na Alura</h3>
 
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=LuanderFarias&show_icons=true&theme=tokyonight">
+  <a href="https://github-readme-stats.vercel.app/api?username=LuanderFarias&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight">
     <img
       align="center"
       height="150em"
