@@ -52,7 +52,13 @@
    </a>
 </p>
 
-##
+#
+
+<p align="center">
+      <img src="https://github.com/LuanderFarias/LuanderFarias/blob/output/github-contribution-grid-snake.svg">
+</p>
+
+#
 
 <h3 align="center">Sobre Mim:</h3>
 
