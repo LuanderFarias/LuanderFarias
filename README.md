@@ -27,8 +27,16 @@
   <a href="https://github.com/LuanderFarias/Cheep">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=LuanderFarias&repo=Cheep&theme=tokyonight"
-    />
+      height="120em"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=LuanderFarias&repo=Cheep&theme=tokyonight">
+    </img>
+  </a>
+  <a href="https://github.com/LuanderFarias/PhoenixVR">
+    <img
+      align="center"
+      height="120em"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=LuanderFarias&repo=PhoenixVR&theme=tokyonight"
+    </img>
   </a>
 </p>
 
