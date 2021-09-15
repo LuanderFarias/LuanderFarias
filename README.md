@@ -1,6 +1,6 @@
 <img align="center" src="/LuanderFarias.png"></img>
 
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Oii Meu Nome é Luander</h1>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Oii Meu Nome é Luander</h1></img>
 
 <h3 align="center">Estudante Na Alura</h3>
 
@@ -20,29 +20,6 @@
     />
   </a>
 </p>
-
-##
-
-<h3 align="center">No Momento Trabalhando Em:</h3>
-
-<p align="center">
-  <a href="https://github.com/LuanderFarias/Cheep">
-    <img
-      align="center"
-      height="120em"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=LuanderFarias&repo=Cheep&theme=tokyonight">
-    </img>
-  </a>
-  <a href="https://github.com/LuanderFarias/PhoenixVR">
-    <img
-      align="center"
-      height="120em"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=LuanderFarias&repo=PhoenixVR&theme=tokyonight"
-    </img>
-  </a>
-</p>
-
-##
 
 <h3 align="center">Ferramentas e Linguagens:</h3>
 
@@ -69,14 +46,6 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" alt="html5" width="40" height="40"/>
    </a>
 </p>
-
-#
-
-<p align="center">
-      <img src="https://github.com/LuanderFarias/LuanderFarias/blob/output/github-contribution-grid-snake.svg">
-</p>
-
-#
 
 <h3 align="center">Sobre Mim:</h3>
 
@@ -111,3 +80,33 @@
   </a>
 </p>
 <p align="center">＠LuanderFarias</p>
+
+<details>
+<summary>Saiba Mais...</summary>
+
+<h3 align="center">No Momento Trabalhando Em:</h3>
+
+<p align="center">
+  <a href="https://github.com/LuanderFarias/Cheep">
+    <img
+      align="center"
+      height="120em"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=LuanderFarias&repo=Cheep&theme=tokyonight">
+    </img>
+  </a>
+  <a href="https://github.com/LuanderFarias/PhoenixVR">
+    <img
+      align="center"
+      height="120em"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=LuanderFarias&repo=PhoenixVR&theme=tokyonight"
+    </img>
+  </a>
+</p>
+
+#
+
+<p align="center">
+      <h3 align="center">Github Commit Snake<h3>
+      <img src="https://github.com/LuanderFarias/LuanderFarias/blob/output/github-contribution-grid-snake.svg">
+</p>
+</details>
