@@ -1,8 +1,27 @@
-<img align="center" src="/LuanderFarias.png"></img>
+<img src="L.png" align="left" width="200px"/>
+Name: Luander De Faria
+<br>
+OS: Zorin OS
+<br>
+Hobbie01: Music
+<br>
+Hobbie02: Drawing and animation
+<br>
+Project01: Cheep
+<br>
+Project02: PhoenixVR
+<br>
+Language: javascript
 
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Oii Meu Nome é Luander</h1></img>
 
-<h3 align="center">Estudante Na Alura</h3>
+<br clear="left"/>
+<br>
+
+<details>
+<summary>More...</summary>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Hi my name is Luander</h1></img>
+
+<h3 align="center">Student in Alura</h3>
 
 <p align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=LuanderFarias&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight">
@@ -20,8 +39,8 @@
     />
   </a>
 </p>
-
-<h3 align="center">Ferramentas e Linguagens:</h3>
+  
+<h3 align="center">Tools And Languages</h3>
 
 <p align="center">
    <a href="https://code.visualstudio.com/">
@@ -47,7 +66,26 @@
    </a>
 </p>
 
-<h3 align="center">Sobre Mim:</h3>
+<h3 align="center">Working on:</h3>
+
+<p align="center">
+  <a href="https://github.com/LuanderFarias/Cheep">
+    <img
+      align="center"
+      height="120em"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=LuanderFarias&repo=Cheep&theme=tokyonight">
+    </img>
+  </a>
+  <a href="https://github.com/LuanderFarias/PhoenixVR">
+    <img
+      align="center"
+      height="120em"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=LuanderFarias&repo=PhoenixVR&theme=tokyonight"
+    </img>
+  </a>
+</p>
+
+<h3 align="center">About me:</h3>
 
 <p align="center">
   <a href="https://instagram.com/luanderfarias/">
@@ -82,31 +120,10 @@
 <p align="center">＠LuanderFarias</p>
 
 <details>
-<summary>Saiba Mais...</summary>
-
-<h3 align="center">No Momento Trabalhando Em:</h3>
-
+<summary>Commit Snake :3</summary>
 <p align="center">
-  <a href="https://github.com/LuanderFarias/Cheep">
-    <img
-      align="center"
-      height="120em"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=LuanderFarias&repo=Cheep&theme=tokyonight">
-    </img>
-  </a>
-  <a href="https://github.com/LuanderFarias/PhoenixVR">
-    <img
-      align="center"
-      height="120em"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=LuanderFarias&repo=PhoenixVR&theme=tokyonight"
-    </img>
-  </a>
-</p>
-
-#
-
-<p align="center">
-      <h3 align="center">Github Commit Snake<h3>
+      <h3 align="center">Github Commit Snake :3<h3>
       <img src="https://github.com/LuanderFarias/LuanderFarias/blob/output/github-contribution-grid-snake.svg">
 </p>
+</details>
 </details>
