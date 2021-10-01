@@ -1,4 +1,4 @@
-<img src="L.png" align="left" width="225px"/>
+<img src="L.png" align="left" width="200px"/>
 Name: Luander De Faria
 <br>
 OS: Zorin OS
