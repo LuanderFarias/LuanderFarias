@@ -1,4 +1,4 @@
-<img src="L.png" align="left" width="200px"/>
+<img src="L.png" align="left" width="225px"/>
 Name: Luander De Faria
 <br>
 OS: Zorin OS
@@ -12,6 +12,8 @@ Project01: Cheep
 Project02: PhoenixVR
 <br>
 Language: javascript
+<br>
+Profile Inspired By: Rajdeep Singha
 
 
 <br clear="left"/>
