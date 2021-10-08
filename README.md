@@ -13,7 +13,7 @@ Project02: PhoenixVR
 <br>
 Language: javascript
 <br>
-Profile Inspired By: Suzie97 (Rajdeep Singha)
+Profile Inspired By: <a href="https://github.com/Suzie97">Suzie97</a>
 
 
 <br clear="left"/>
