@@ -30,15 +30,24 @@ Profile Inspired By: <a href="https://github.com/Suzie97">Suzie97</a>
     <img
       align="center"
       height="150em"
-      src="https://github-readme-stats.vercel.app/api?username=LuanderFarias&show_icons=true&theme=tokyonight"
+      src="https://github-readme-stats.vercel.app/api?username=LuanderFarias&&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000"
     />
   </a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanderFarias&show_icons=true&layout=compact&theme=tokyonight">
     <img
       align="center"
       height="150em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanderFarias&show_icons=true&layout=compact&theme=tokyonight"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanderFarias&layout=compact&hide_border=true&theme=darcula&bg_color=00000000"
     />
+  </a>
+</p>
+
+<p align="center">
+  <a href>
+    <img
+      align="center"
+      height="150em"
+      src="https://github-readme-streak-stats.herokuapp.com?user=LuanderFarias&theme=darcula&hide_border=true&background=FFFFFF00" />
   </a>
 </p>
   
@@ -75,14 +84,14 @@ Profile Inspired By: <a href="https://github.com/Suzie97">Suzie97</a>
     <img
       align="center"
       height="120em"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=LuanderFarias&repo=Cheep&theme=tokyonight">
+      src="https://github-readme-stats.vercel.app/api/pin/?username=LuanderFarias&repo=Cheep&theme=darcula&background=FFFFFF00">
     </img>
   </a>
   <a href="https://github.com/LuanderFarias/PhoenixVR">
     <img
       align="center"
       height="120em"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=LuanderFarias&repo=PhoenixVR&theme=tokyonight"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=LuanderFarias&repo=PhoenixVR&theme=darcula&background=FFFFFF00"
     </img>
   </a>
 </p>
