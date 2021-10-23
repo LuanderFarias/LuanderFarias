@@ -41,6 +41,15 @@ Profile Inspired By: <a href="https://github.com/Suzie97">Suzie97</a>
     />
   </a>
 </p>
+
+<p align="center">
+  <a href="">
+    <img
+      align="center"
+      src="https://github-profile-trophy.vercel.app/?username=LuanderFarias&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true"
+    />
+  </a>
+</a>
   
 <h3 align="center">Tools And Languages</h3>
 
