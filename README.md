@@ -1,20 +1,16 @@
 <img src="LuanderFariasLogo.png" align="left" width="200px"/>
-Name: Luander De Faria
-<br>
-OS: Zorin OS
-<br>
-Hobbie01: Music
-<br>
-Hobbie02: Drawing and animation
-<br>
-Project01: Cheep
-<br>
-Project02: PhoenixVR
-<br>
-Language: javascript
-<br>
-Profile Inspired By: <a href="https://github.com/Suzie97">Suzie97</a>
 
+```ts
+@LuanderFarias
+--------------
+OS: Zorin OS
+Location: Paraná, Brazil
+Hobbies: Gaming, Music, Drawing and animation
+Projects: Cheep, PhoenixVR
+Favorite Language: javascript
+Learning: C++, Java, planning to learn react
+Profile Inspired By: https://github.com/Suzie97, https://github.com/VideMelo
+```
 
 <br clear="left"/>
 <br>
