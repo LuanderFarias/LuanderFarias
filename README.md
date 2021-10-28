@@ -1,4 +1,4 @@
-<img src="LuanderFariasLogo.png" align="left" width="200px"/>
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5c9e06114084301.6034c329b0e28.gif" align="left" width="200px"/>
 
 ```ts
 @LuanderFarias
