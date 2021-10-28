@@ -2,7 +2,6 @@
 
 ```ts
 @LuanderFarias
---------------
 OS: Zorin OS
 Location: Paraná, Brazil
 Hobbies: Gaming, Music, Drawing and animation
