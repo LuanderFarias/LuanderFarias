@@ -1,4 +1,6 @@
-<img src="./update-neofetch.png"/>
+<a href="https://github.com/LuanderFarias">
+  <img src="./update-neofetch.png"/>
+</a>
 
 <details>
 <summary>More...</summary>
