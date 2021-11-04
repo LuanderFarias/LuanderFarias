@@ -1,4 +1,4 @@
-<img src="./neofetch.png"/>
+<img src="./update-neofetch.png"/>
 
 <br clear="left"/>
 <br>
