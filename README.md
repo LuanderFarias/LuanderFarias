@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="/LuanderFarias.png" alt="avatar"> <br/>
-  <br/>
+  <img align="center" width="200px" src="/Luander.png" alt="avatar"/>
+  <h3 align="center">Front-End Developer</h3>
+<p align="center">
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode"/>
   <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5"/>
   <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3"/>
