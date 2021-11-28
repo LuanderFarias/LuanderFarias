@@ -1,7 +1,6 @@
 <p align="center">
-  <img align="center" width="200px" src="/Luander.png" alt="avatar"/>
-  <h3 align="center">Front-End Developer</h3>
-<p align="center">
+  <img width="900px" src="./LuanderFarias.png" alt="banner"/> <br/>
+  <br/>
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode"/>
   <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5"/>
   <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3"/>
@@ -14,6 +13,7 @@
   <img src="https://github.com/LuanderFarias/LuanderFarias/blob/output/github-contribution-grid-snake.svg">
 </p>
 
+<h4 align="center">
 <details>
 <summary>More...</summary>
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Hi my name is Luander</h1></img>
@@ -99,5 +99,5 @@
     />
   </a>
 </p>
-<p align="center">＠LuanderFarias</p>
+<h5 align="center">＠LuanderFarias</h5>
 </details>
