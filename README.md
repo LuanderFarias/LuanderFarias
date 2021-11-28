@@ -10,9 +10,6 @@
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" alt="electron">
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="slack">
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git">
-  <br/>
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=LuanderFarias&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true"> <br/>
   <img src="https://github.com/LuanderFarias/LuanderFarias/blob/output/github-contribution-grid-snake.svg">
 </p>
 
@@ -39,6 +36,7 @@
   </a>
 </p>
 
+
 <p align="center">
   <a href="">
     <img
@@ -47,6 +45,7 @@
     />
   </a>
 </a>
+</p>
 
 <h3 align="center">Working on:</h3>
 
