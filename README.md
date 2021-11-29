@@ -10,7 +10,6 @@
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" alt="electron">
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="slack">
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git">
-  <img src="https://github.com/LuanderFarias/LuanderFarias/blob/output/github-contribution-grid-snake.svg">
 </p>
 
 <h4 align="center">
@@ -100,4 +99,11 @@
   </a>
 </p>
 <h5 align="center">＠LuanderFarias</h5>
+<details>
+<summary>Commit Snake :3</summary>
+<p align="center">
+  <h3 align="center">Github Commit Snake :3<h3>
+  <img src="https://github.com/LuanderFarias/LuanderFarias/blob/output/github-contribution-grid-snake.svg">
+</p>
+</details>
 </details>
