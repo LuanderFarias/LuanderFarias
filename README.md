@@ -1,5 +1,5 @@
-<p align="center">
-  <img width="900px" src="./LuanderFarias.png" alt="banner"/>
+[![banner](./LuanderFarias.png)](https://github.com/LuanderFarias)
+
   <p align="center">
    <a href="https://code.visualstudio.com/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
@@ -29,7 +29,6 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
    </a>
 </p>
-</p>
 
 <h4 align="center">
 <details>
@@ -39,25 +38,25 @@
 <h3 align="center">Student in Alura</h3>
 
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=LuanderFarias&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight">
+  <a href="https://github.com/LuanderFarias">
     <img
       align="center"
       height="150em"
-      src="https://github-readme-stats.vercel.app/api?username=LuanderFarias&show_icons=true&theme=tokyonight"
+      src="https://github-readme-stats.vercel.app/api?username=LuanderFarias&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
     />
   </a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanderFarias&show_icons=true&layout=compact&theme=tokyonight">
+  <a href="https://github.com/LuanderFarias">
     <img
       align="center"
       height="150em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanderFarias&show_icons=true&layout=compact&theme=tokyonight"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanderFarias&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight"
     />
   </a>
 </p>
 
 
 <p align="center">
-  <a href="">
+  <a href="https://github.com/LuanderFarias">
     <img
       align="center"
       src="https://github-profile-trophy.vercel.app/?username=LuanderFarias&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"
