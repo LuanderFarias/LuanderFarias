@@ -1,6 +1,6 @@
 ```javascript
 const LuanderFarias = {
-  🏢: (school) => {
+  🏢: (school) {
     Alura: 'https://www.alura.com.br/'
   },
   💻: (tools and languages) {
