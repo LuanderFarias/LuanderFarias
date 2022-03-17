@@ -22,10 +22,7 @@ const LuanderFarias = {
   }
  📧: (contact)  {
     Instagram: 'https://instagram.com/luanderfarias/',
-    Twitter: 'https://twitter.com/LuanderFarias',
-    Discord: 'https://discord.gg/ZP7fGys',
     Linkedin: 'https://www.linkedin.com/in/luander-de-faria-474269205/',
-    Youtube: 'https://www.youtube.com/channel/UC-gZiNTB58C1APIyp15cqxA'
   }
 }
 ```
