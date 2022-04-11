@@ -5,6 +5,6 @@ const LuanderFarias = {
   Age: 17,
   Skills: [ HTML5, CSS, Javascript, ReactJS, NextJS, NodeJS, Electron ]
   Projects: [ Cheep, PhoenixVR, WebScreenRecorder, Saturnio, MidnightLauncher/Client ]
-  Contact: [ Instagram: 'https://instagram.com/luanderfarias/', Linkedin: 'https://www.linkedin.com/in/luander-de-faria-474269205/' ]
+  Contact: [ Instagram: '@LuanderFarias', Linkedin: 'https://www.linkedin.com/in/luander-de-faria-474269205/' ]
 };
 ```
