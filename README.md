@@ -1,28 +1,10 @@
 ```javascript
 const LuanderFarias = {
-  🏢: (school) {
-    Alura: 'https://www.alura.com.br/'
-  },
-  💻: (tools and languages) {
-    VisualStudioCode: 'https://code.visualstudio.com/',
-    HTML5: 'https://developer.mozilla.org/pt-BR/docs/Web/HTML',
-    CSS: 'https://developer.mozilla.org/pt-BR/docs/Web/CSS',
-    Javascript: 'https://developer.mozilla.org/en-US/docs/Web/JavaScript',
-    NextJS: 'https://nextjs.org/',
-    NodeJS: 'https://nodejs.org',
-    Electron: 'https://www.electronjs.org/',
-    Slack: 'https://www.slack.com',
-    Git: 'https://git-scm.com/'
-  🛠️: (projects) {
-    Cheep: 'https://github.com/LuanderFarias/Cheep',
-    PhoenixVR: 'https://github.com/LuanderFarias/PhoenixVR',
-    WebScreenRecorder: 'https://github.com/WebScreenRecorder/WebScreenRecorder.github.io',
-    Saturnio: 'https://github.com/LuanderFarias/Saturnio',
-    MidnightLauncher/Client: 'https://github.com/MidnightLauncher'
-  }
- 📧: (contact)  {
-    Instagram: 'https://instagram.com/luanderfarias/',
-    Linkedin: 'https://www.linkedin.com/in/luander-de-faria-474269205/',
-  }
-}
+  Name: "Luander De Faria",
+  About: "Desenvolvedor apaixonado por codigos e linux :3",
+  Age: 17,
+  Skills: [ HTML5, CSS, Javascript, NextJS, NodeJS, Electron ]
+  Projects: [ Cheep, PhoenixVR, WebScreenRecorder, Saturnio, MidnightLauncher/Client ]
+  Contact: [ Instagram: 'https://instagram.com/luanderfarias/', Linkedin: 'https://www.linkedin.com/in/luander-de-faria-474269205/' ]
+};
 ```
