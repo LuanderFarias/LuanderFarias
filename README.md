@@ -1,7 +1,7 @@
 ```javascript
 const LuanderFarias = {
   Name: "Luander De Faria",
-  About: "Desenvolvedor apaixonado por codigos e linux :3",
+  About: "Developer passionate about code and linux :3",
   Age: 17,
   Skills: [ HTML5, CSS, Javascript, ReactJS, NextJS, NodeJS, Electron ]
   Projects: [ Cheep, PhoenixVR, WebScreenRecorder, Saturnio, MidnightLauncher/Client ]
