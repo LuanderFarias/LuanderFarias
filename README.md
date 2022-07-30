@@ -1,9 +1,9 @@
-<img src="keyboard.gif" align="left" width="350px" margin-right="50px"/>
+<img src="keyboard.gif" align="left" margin-right="50px"/>
 
 ```
 const LuanderFarias = {
   🏢: (about) {
-    Hi my name is luander but you can call me monobo, i love coffee, code and linux.
+    Hi my name is luander but you can call me mono, i love coffee, code and linux.
     I work hard on my projects to make open source soluction for problems i found.
     Recently i started a new company and i'm doing some projects with my team.
   },
