@@ -1,5 +1,3 @@
-<img src="keyboard.gif" align="left" margin-right="50px"/>
-
 ```
 const LuanderFarias = {
   🏢: (about) {
