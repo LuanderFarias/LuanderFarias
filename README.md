@@ -1,3 +1,7 @@
+<img src="/type.gif" width="100%"/>
+
+<details><summary>About Me</summary>
+
 ```
 const LuanderFarias = {
   🏢: (about) {
@@ -12,3 +16,5 @@ const LuanderFarias = {
   }
 }
 ```
+
+</details>
