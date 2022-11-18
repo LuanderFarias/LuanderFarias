@@ -87,7 +87,7 @@
 
 ###
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/458715729940709377?idleMessage=Probably%20Coding...)](https://discord.com/users/458715729940709377)
+[![Discord Presence](https://lanyard.cnrad.dev/api/458715729940709377?idleMessage=Sleeping%20or%20Coding...)](https://discord.com/users/458715729940709377)
 
 ![views](https://gpvc.arturio.dev/luanderfarias)
 
