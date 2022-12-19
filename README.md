@@ -19,43 +19,43 @@
 <h2 align="left">I develop experiences with</h2>
 
 ###
-
+  
 <div align="left">
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+    <img src="https://skillicons.dev/icons?i=js" height="40" width="52" alt="javascript logo"  />
   </a>
   <a href="https://www.typescriptlang.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
+    <img src="https://skillicons.dev/icons?i=ts" height="40" width="52" alt="typescript logo"  />
   </a>
   <a href="https://reactjs.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+    <img src="https://skillicons.dev/icons?i=react" height="40" width="52" alt="react logo"  />
   </a>
   <a href="https://nextjs.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="52" alt="nextjs logo"  />
+    <img src="https://skillicons.dev/icons?i=next" height="40" width="52" alt="nextjs logo"  />
   </a>
   <a href="https://nodejs.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
+    <img src="https://skillicons.dev/icons?i=nodejs" height="40" width="52" alt="nodejs logo"  />
   </a>
   <a href="https://www.python.org">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
+    <img src="https://skillicons.dev/icons?i=python" height="40" width="52" alt="python logo"  />
+  </a>
+  <a href="https://www.tauri.app/">
+    <img src="https://skillicons.dev/icons?i=tauri" height="40" width="52" alt="electron logo"  />
   </a>
   <a href="https://code.visualstudio.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
+    <img src="https://skillicons.dev/icons?i=vscode" height="40" width="52" alt="vscode logo"  />
   </a>
   <a href="https://www.electronjs.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="40" width="52" alt="electron logo"  />
+    <img src="https://skillicons.dev/icons?i=electron" height="40" width="52" alt="electron logo"  />
   </a>
   <a href="https://github.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
+    <img src="https://skillicons.dev/icons?i=github" height="40" width="52" alt="github logo"  />
   </a>
   <a href="https://pt.wikipedia.org/wiki/Bash">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" height="40" width="52" alt="bash logo"  />
-  </a>
-  <a href="https://canva.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" width="52" alt="canva logo"  />
+    <img src="https://skillicons.dev/icons?i=bash" height="40" width="52" alt="bash logo"  />
   </a>
   <a href="https://codepen.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" height="40" width="52" alt="codepen logo"  />
+    <img src="https://skillicons.dev/icons?i=codepen" height="40" width="52" alt="codepen logo"  />
   </a>
 </div>
 
@@ -67,22 +67,22 @@
 
 <div align="left">
   <a href="https://instagram.com/luanderfarias">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://skillicons.dev/icons?i=instagram" width="52" height="40" alt="instagram logo"  />
   </a>
   <a href="https://linkedin.com/in/luander-de-faria-474269205">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://discord.com/users/458715729940709377">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+    <img src="https://skillicons.dev/icons?i=discord" width="52" height="40" alt="discord logo"  />
   </a>
   <a href="#">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
   <a href="https://codepen.io/luanderfarias">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo"  />
+    <img src="https://skillicons.dev/icons?i=codepen" width="52" height="40" alt="codepen logo"  />
   </a>
   <a href="https://twitter.com/luanderfarias">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://skillicons.dev/icons?i=twitter" width="52" height="40" alt="twitter logo"  />
 </div>
 
 ###
