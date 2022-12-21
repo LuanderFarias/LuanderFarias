@@ -12,7 +12,7 @@
 
 <p align="left">Hi my name is luander but you can call me mono, i love coffee, code and linux,<br>I work hard on my projects to make open source soluctions for problems i found.</p>
 
-<p align="left">Recently i started <a href="https://github.com/nikoidot">@nikoidot</a> a company focused in develop experiences. Also i created <a href="https://github.com/osstsi">[ OSSTSI ]</a> a institute of technology, where we are developing some courses, webapps and programs to help the open source community.
+<p align="left">Recently i started <a href="https://github.com/nikoidot">@nikoidot</a> a company focused in develop experiences. Also i created <a href="https://github.com/osstsi">[ OSSTSI ]</a> a institute of technology, where we are developing some courses, webapps and programs to help the open source community. At this moment i'm planning everything for nikoidot and already developing one of the projects, our first javascript library named <a href="https://github.com/inputify/inputify-js">Inputify</a>.
 
 ###
 
@@ -54,7 +54,7 @@
   <a href="https://pt.wikipedia.org/wiki/Bash">
     <img src="https://skillicons.dev/icons?i=bash" height="40" width="52" alt="bash logo"  />
   </a>
-  <a href="https://codepen.com">
+  <a href="https://codepen.io">
     <img src="https://skillicons.dev/icons?i=codepen" height="40" width="52" alt="codepen logo"  />
   </a>
 </div>
