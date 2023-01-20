@@ -12,7 +12,7 @@
 
 <p align="left">Hi my name is luander but you can call me mono, i love coffee, code and linux,<br>I work hard on my projects to make open source soluctions for problems i found.</p>
 
-<p align="left">Recently i started <a href="https://github.com/nikoidot">@nikoidot</a> a company focused in develop experiences. Also i created <a href="https://github.com/osstsi">[ OSSTSI ]</a> a institute of technology, where we are developing some courses, webapps and programs to help the open source community. At this moment i'm planning everything for nikoidot and already developing one of the projects, our first javascript library named <a href="https://github.com/inputify/inputify-js">Inputify</a>.
+<p align="left">Recently i started <a href="https://github.com/nikoidot">@nikoidot</a> a company focused in develop experiences, courses, webapps, programs and more. At this moment i'm planning everything for nikoidot and already developing some of the projects, our first project is a javascript library named <a href="https://github.com/inputify/inputify-js">Inputify</a> and another saas that still under secret for now 👀.
 
 ###
 
@@ -26,6 +26,9 @@
   </a>
   <a href="https://www.typescriptlang.org/">
     <img src="https://skillicons.dev/icons?i=ts" height="40" width="52" alt="typescript logo"  />
+  </a>
+  <a href="https://www.markdownguide.org/">
+    <img src="https://skillicons.dev/icons?i=markdown" height="40" width="52" alt="typescript logo"  />
   </a>
   <a href="https://reactjs.org/">
     <img src="https://skillicons.dev/icons?i=react" height="40" width="52" alt="react logo"  />
