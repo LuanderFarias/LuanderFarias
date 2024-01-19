@@ -1,9 +1,10 @@
+<pre align="center">
 <img src="/type.gif" width="100%"/>
-<div style="display: flex">
-  <a href="https://github.com/luanderfarias">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/luanderfarias">
-  </a>
-  <a href="https://github.com/sponsors/LuanderFarias/">
-    <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/luanderfarias">
-  </a>
-</div>
+<br/>
+<b>Howdy! I'm nikolle (or niko).</b>
+<b>A Brazilian software enginner powered by coffee, code and Linux (i use arch btw).</b>
+<b>I like to work hard to create open-source solutions to problems I find.</b>
+<b>Always having ideas, my brain don't stop (pls send help).</b>
+<b>Still working on a potfolio but <a target="_blank" href="https://solo.to/luanderfarias">here</a> are my stuff.</b>
+<br/>
+</pre>
